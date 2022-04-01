@@ -1,2 +1,2 @@
 # Urna-Eletronica
- Simulador de Urna Eletrônica
+ Projeto Simulador de Urna Eletrônica realizado na aula do Professor Bonieky Lacerda.
